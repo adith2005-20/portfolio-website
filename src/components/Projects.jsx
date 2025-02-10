@@ -1,5 +1,5 @@
 import React from "react";
-import SpotlightCard from "C:/Users/adith/Desktop/my_portfolio/adith-portfolio/src/blocks/Components/SpotlightCard/SpotlightCard.jsx";
+import SpotlightCard from "../blocks/Components/SpotlightCard/SpotlightCard.jsx";
 
 function Projects() {
   return (
