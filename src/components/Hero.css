@@ -1,0 +1,15 @@
+.dot-matrix-bg {
+  background-color: rgb(0, 0, 0);
+  background-image: radial-gradient(circle, rgba(255, 255, 255, 0.25) 1px, transparent 1px);
+  background-size: 20px 20px;
+  animation: moveDots 2s linear infinite;
+}
+
+@keyframes moveDots {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 20px 20px;
+  }
+}
