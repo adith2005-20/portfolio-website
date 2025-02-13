@@ -15,12 +15,12 @@ Welcome to my personal portfolio website! This is where I showcase my projects, 
 
 
 ## 🔗 Live Demo
-[Check it out here!](https://adith-dev.vercel.app/)
+[Check it out here!](https://adith.me)
 
 
 ## 📬 Contact
 Feel free to reach out! You can find me at:
-- **Portfolio:** [(https://adith-dev.vercel.app/)]
+- **Portfolio:** [(https://adith.me)]
 - **GitHub:** [(https://github.com/adith2005-20)]
 - **LinkedIn:** [(https://www.linkedin.com/in/adith-biju-224358289/)]
 
