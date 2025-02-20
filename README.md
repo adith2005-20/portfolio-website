@@ -20,9 +20,9 @@ Welcome to my personal portfolio website! This is where I showcase my projects, 
 
 ## 📬 Contact
 Feel free to reach out! You can find me at:
-- **Portfolio:** [(https://adith.me)]
-- **GitHub:** [(https://github.com/adith2005-20)]
-- **LinkedIn:** [(https://www.linkedin.com/in/adith-biju-224358289/)]
+- [**Website**](https://adith.me)
+- [**GitHub**](https://github.com/adith2005-20)
+- [**LinkedIn**](https://www.linkedin.com/in/adith-biju-224358289/)
 
 ---
 
